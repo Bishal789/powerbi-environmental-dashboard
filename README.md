@@ -78,7 +78,7 @@ These visualizations help raise awareness, promote accountability, and support e
 
 ## 📄 Report
 
-The detailed project report is available in the `Report.pdf` file, covering:
+The detailed project report is available in the `Report.docx` file, covering:
 - Data cleaning & transformation steps
 - Dashboard design choices
 - Limitations
